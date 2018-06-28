@@ -5,6 +5,7 @@ null,
 {"id":3,"expanded":false,"name":"shimizu-eleveter","order":2,"parentId":0,"scrollX":761.3333333333334,"scrollY":972},
 {"id":4,"expanded":false,"name":"shimizu-7F","order":3,"parentId":0,"scrollX":761.3333333333334,"scrollY":972},
 {"id":5,"expanded":false,"name":"shibuya","order":5,"parentId":0,"scrollX":826,"scrollY":1056},
-{"id":6,"expanded":false,"name":"cross-26F","order":6,"parentId":0,"scrollX":761.3333333333334,"scrollY":566.6666666666666},
-{"id":7,"expanded":false,"name":"opening","order":7,"parentId":0,"scrollX":772,"scrollY":468}
+{"id":6,"expanded":false,"name":"cross-26F","order":6,"parentId":0,"scrollX":753,"scrollY":558.5},
+{"id":7,"expanded":false,"name":"opening","order":7,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":8,"expanded":false,"name":"higashiguchi-office","order":8,"parentId":0,"scrollX":483,"scrollY":315.5}
 ]
