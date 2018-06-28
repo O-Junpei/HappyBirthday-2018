@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"オフィス1F","order":2,"parentId":0,"scrollX":811,"scrollY":785},
-{"id":2,"expanded":false,"name":"shimizu-8F-door","order":1,"parentId":0,"scrollX":571,"scrollY":800}
+{"id":1,"expanded":false,"name":"shimizu-7F","order":2,"parentId":0,"scrollX":814,"scrollY":1097},
+{"id":2,"expanded":false,"name":"shimizu-8F-door","order":1,"parentId":0,"scrollX":816,"scrollY":1097},
+{"id":3,"expanded":false,"name":"shimizu-eleveter","order":3,"parentId":0,"scrollX":571,"scrollY":1059}
 ]
