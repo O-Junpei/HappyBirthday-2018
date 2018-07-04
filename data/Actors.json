@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":1,"equips":[0,0,0,0,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":99,"maxLevel":99,"name":"真さん","nickname":"執行役員","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"shinsan","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"shinsan","traits":[],"initialLevel":99,"maxLevel":99,"name":"真さん","nickname":"執行役員","note":"","profile":""}
 ]
